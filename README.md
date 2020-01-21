@@ -1,6 +1,8 @@
 # SlidingWindowObjectDetection
 Given a set of images, task is to identify the objects belonging to classes : aeroplane, bottle and chair, and draw a bounding box around it.
 
+Code used : https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
+
 ## Methods used
 
 ### Resnet18 - 1 layer model
